@@ -1,6 +1,6 @@
 // [1] Write a program that allow to user enter number then printit
 
-// var num = window.prompt("Enter Number");
+// var num = +window.prompt("Enter Number");
 // console.log(num);
 
 // ------------------------------------------------------------------------------
@@ -68,7 +68,7 @@
 //   console.log(`Max Element ${num3}`);
 //   console.log(`Min Element ${num2}`);
 // }
-
+// =======================================================================================
 // if (num1 > num2 && num1 > 3) {
 //   console.log(`Max Element ${num1}`)
 //   if (num2 > num3) {
@@ -132,7 +132,7 @@
 
 // ------------------------------------------------------------------------------ 
 
-//  [9] Write a program that allows userto insert integer then print a multiplication table up to 12.
+//  [9] Write a program that allows user to insert integer then print a multiplication table up to 12.
 
 
 // var num = Number(window.prompt("Enter Number"));
@@ -165,11 +165,11 @@
 // [12] Write a program to enter marks of five subjects and calculate total, average and percentage.
 
 
-// var num1 = Number(window.prompt("Enter 1 Number"));
-// var num2 = Number(window.prompt("Enter 2 Number"));
-// var num3 = Number(window.prompt("Enter 3 Number"));
-// var num4 = Number(window.prompt("Enter 4 Number"));
-// var num5 = Number(window.prompt("Enter 5 Number"));
+// var num1 = Number(window.prompt("Enter Number 1"));
+// var num2 = Number(window.prompt("Enter Number 2"));
+// var num3 = Number(window.prompt("Enter Number 3"));
+// var num4 = Number(window.prompt("Enter Number 4"));
+// var num5 = Number(window.prompt("Enter Number 5"));
 
 // function totalMarks(num1,num2,num3,num4,num5){
 //   total = num1 + num2 + num3 + num4 + num5;
@@ -262,7 +262,7 @@
 
 // ------------------------------------------------------------------------------
 
-// [15] Write a program to check whether an alphabet is vowel or consonant
+// [16] Write a program to check whether an alphabet is vowel or consonant
 
 // var char = window.prompt("Enter Character");
 
@@ -285,7 +285,7 @@
 
 // ------------------------------------------------------------------------------
 
-// [16] Write a program to find maximum between two numbers 
+// [17] Write a program to find maximum between two numbers 
 
 // var num1 = window.prompt("Enter First Number");
 // var num2 = window.prompt("Enter Second Number");
@@ -304,7 +304,7 @@
 
 // ------------------------------------------------------------------------------
 
-// [17] Write a program to check whether a number is even or odd
+// [18] Write a program to check whether a number is even or odd
 
 // var num = Number(window.prompt("Enter Number Here"));
 
@@ -319,7 +319,7 @@
 // ------------------------------------------------------------------------------
 
 
-// [18] Write a program to check whether a number is positive or negative or zero
+// [19] Write a program to check whether a number is positive or negative or zero
 
 // var num = Number(window.prompt("Enter Number Here"));
 
@@ -333,7 +333,7 @@
 
 // ------------------------------------------------------------------------------
 
-// [19] Write a program to create Simple Calculator
+// [20] Write a program to create Simple Calculator
 
 // var num1 = Number(window.prompt("Enter First Number"));
 // var num2 = Number(window.prompt("Enter Second Number"));
